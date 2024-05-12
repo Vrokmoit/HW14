@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "dz14"
+version = "0.1.0"
+description = ""
+authors = ["Vrokmoit <vrokmoit.cattus@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+Sphinx = "^7.3.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
